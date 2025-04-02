@@ -1,7 +1,8 @@
 Hi 👋 My name is Teerawit Pongkunawut
 =====================================
 
-Electronics and Telecommunication Engineering Engineering Student and QA Automation
+Electronics and Telecommunication Engineering Student
+QA Automation at SCB Techhub KMUTT
 -----------------------------------------------------------------------------------
 
 * 🌍  I'm based in 3rd year Electronics and Telecommunication Engineering Engineering Student at KMUTT
